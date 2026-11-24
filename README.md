@@ -159,14 +159,6 @@ Whether you're planning a startup, designing a system architecture, explaining a
 
 ---
 
-## 📜 Legal
-
-- [Privacy Policy](src/pages/PrivacyPolicy.jsx)
-- [Terms of Service](src/pages/TermsOfService.jsx)
-- [About DrawEgg](src/pages/AboutDrawEgg.jsx)
-
----
-
 ## 👨‍💻 Developer
 
 Created and developed as an independent project.
