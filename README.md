@@ -50,8 +50,10 @@ No complicated software. Just open your browser and start creating.
 
 ---
 ## 🖥️ Preview
-<img width="464" height="312" alt="Screenshot 2026-11-25 015035" src="https://github.com/user-attachments/assets/676ce05e-99ff-4182-af2a-a612a474f51d" />
+
 <img width="1487" height="1058" alt="DrawEgg Idea Board Mind Map" src="https://github.com/user-attachments/assets/22a979e2-e16f-41ce-916e-0d17d3dadbc0" />
+
+<img width="464" height="312" alt="Screenshot 2026-11-25 015035" src="https://github.com/user-attachments/assets/676ce05e-99ff-4182-af2a-a612a474f51d" />
 
 ---
 
