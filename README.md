@@ -161,9 +161,9 @@ Whether you're planning a startup, designing a system architecture, explaining a
 
 ## 📜 Legal
 
-- [Privacy Policy](#)
-- [Terms of Service](#)
-- [About DrawEgg](#)
+- [Privacy Policy](src/pages/PrivacyPolicy.jsx)
+- [Terms of Service](src/pages/TermsOfService.jsx)
+- [About DrawEgg](src/pages/AboutDrawEgg.jsx)
 
 ---
 
