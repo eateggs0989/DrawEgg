@@ -148,7 +148,7 @@ DrawEgg can be deployed using [Vercel](https://vercel.com/).
 4. Use `npm run build` as the build command.
 5. Use `dist` as the output directory.
 6. Deploy your application.
-
+7. website -- https://draw-egg.vercel.app/
 ---
 
 ## 🎯 Project Vision
