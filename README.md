@@ -107,7 +107,7 @@ Follow these steps to run DrawEgg locally.
 ### 1. Clone the repository
 
 ```bash
-https://github.com/eateggs0989/DrawEgg
+https://github.com/eateggs0989/DrawEgg.git
 ```
 
 ### 2. Open the project
